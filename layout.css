@@ -1,0 +1,27 @@
+.photos {
+	width: 48%;
+	height: 48%;
+	margin: 5px;
+	overflow: hidden;
+	text-align: center;
+	display: inline;
+	float: left;
+	position: relative;
+}
+
+.photo {
+	position: relative;
+	width: 100%;
+	height: auto;
+	max-height: 334px;
+	max-width: 500px;
+	display: block;
+}
+
+.view {
+	width: 70px;
+	height: 70px;
+	margin-top: -45%;
+	margin-left: -10%;
+	position: absolute;
+}

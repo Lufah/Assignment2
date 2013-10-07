@@ -1,0 +1,38 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	background-image: url("tree_bark_bluetint.png");
+	color: white;
+	text-shadow: .5px .75px .5px black;
+}
+
+h1, h2, h3, ul {
+	margin: 0;
+}
+
+h1, h2, h3 {
+	color: rgb(53, 67, 75);
+}
+
+h1, h2 {
+	letter-spacing: 2px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.info, .refs {
+	font-style: italic;
+}
+
+a, link {
+	text-decoration: none;
+}
+
+#main {
+	background-color: rgba(0, 0, 0, .3);
+}
+
+.view, nav a {
+	color: rgba(255, 255, 255, 1);
+}
